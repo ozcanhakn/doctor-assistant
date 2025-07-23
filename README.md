@@ -97,4 +97,4 @@ project_1/
 
 
 ## 👤 Geliştirici
-(@ozcanhakn)[https://github.com/ozcanhakn]
+(ozcanhakn)[https://github.com/ozcanhakn]
