@@ -8,7 +8,7 @@ Bu proje, OpenAI destekli bir Doktor Asistanı Chatbot'udur. Kullanıcılar term
 
 ### 1. Bu repoyu klonla
 ```bash
-git clone https://github.com/kullaniciadiniz/doktor-asistani.git
+git clone https://github.com/ozcanhakn/doktor-asistani.git
 cd doktor-asistani
 ```
 
